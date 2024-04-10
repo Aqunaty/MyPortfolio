@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.5c1063ec.css",
+    "main.js": "/MyPortfolio/static/js/main.b3c8471d.js",
+    "static/js/453.ad6eb26e.chunk.js": "/MyPortfolio/static/js/453.ad6eb26e.chunk.js",
+    "static/media/movie-app-full-width.png": "/MyPortfolio/static/media/movie-app-full-width.10a0a02ff8cfe4cfedb1.png",
+    "static/media/Screenshot_1638.png": "/MyPortfolio/static/media/Screenshot_1638.9bb10b39c24f35fdb10b.png",
+    "static/media/jsFinal-full-width.png": "/MyPortfolio/static/media/jsFinal-full-width.16528f18fd72b30c0f88.png",
+    "static/media/Screenshot_1640.png": "/MyPortfolio/static/media/Screenshot_1640.b1362af5ec1f9df976f0.png",
+    "static/media/Screenshot_1642.png": "/MyPortfolio/static/media/Screenshot_1642.b7baf2caf21c9546cd2e.png",
+    "static/media/lico.jpg": "/MyPortfolio/static/media/lico.dee936dc1382a7fde340.jpg",
+    "static/media/Screenshot_1641.png": "/MyPortfolio/static/media/Screenshot_1641.fe85cd4c95a98b245809.png",
+    "static/media/calculator-full-width.png": "/MyPortfolio/static/media/calculator-full-width.f5eb51bdc9b12825fd01.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.5c1063ec.css.map": "/MyPortfolio/static/css/main.5c1063ec.css.map",
+    "main.b3c8471d.js.map": "/MyPortfolio/static/js/main.b3c8471d.js.map",
+    "453.ad6eb26e.chunk.js.map": "/MyPortfolio/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1063ec.css",
+    "static/js/main.b3c8471d.js"
+  ]
+}
