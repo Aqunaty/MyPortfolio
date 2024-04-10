@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 800;
+    font-size: 18px;
+    color: white; /* Set text color */
+    text-decoration: none;
+}
+
+.header ul
+{
+    list-style: none;
+    display: flex;
+    margin-right:20px;
+    margin-top:10px;
+}
+.header ul li
+{
+    margin-left:20px;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+}

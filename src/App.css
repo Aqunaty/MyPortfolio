@@ -1,0 +1,38 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+body
+{
+    /* background-color: black; */
+    color: white;
+
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(circle, #2b2b2b, #000000);
+    background-attachment: fixed; /* Enable parallax effect */
+    background-size: cover; /* Ensure the background covers the entire viewport */
+    background-position: center; /* Center the background */
+    color: white; /* Set text color to white for better contrast */
+    font-family: Arial, sans-serif; /* Choose a suitable font */
+    height: 100vh; /* Ensure the body fills the viewport */
+}
+/* WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #333333; /* Track color */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888; /* Thumb color */
+    border-radius: 10px; /* Border radius of the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Thumb color on hover */
+}
